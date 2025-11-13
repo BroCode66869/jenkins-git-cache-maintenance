@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'maintenance-agent' }
+    agent any
 
     parameters {
         booleanParam(name: 'DRY_RUN', defaultValue: true, description: 'List actions only, do not delete')

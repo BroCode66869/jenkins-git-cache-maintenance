@@ -1,3 +1,4 @@
+#git_cleanup.sh
 #!/bin/bash
 set -euo pipefail
 

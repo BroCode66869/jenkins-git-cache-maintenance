@@ -1,3 +1,4 @@
+# disk_check.sh
 #!/bin/bash
 set -euo pipefail
 
